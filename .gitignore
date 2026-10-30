@@ -1,0 +1,25 @@
+# ---- 密钥：绝不能进仓库 ----
+.env
+.env.local
+model_keys.json
+
+# ---- 个人数据 / 运行时状态 ----
+usage_stats.json
+erased_last.json
+saves/
+groups.json
+battles.json
+world_events.json
+player.json
+npc_state.json
+backups/
+
+# ---- 用户上传的背景图 ----
+web/bg/*
+!web/bg/.gitkeep
+
+# ---- 系统 / Python ----
+__pycache__/
+*.pyc
+.DS_Store
+.venv/

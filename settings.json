@@ -1,0 +1,17 @@
+{
+ "disabled": [
+  "chiaya"
+ ],
+ "deleted": [
+  "hsin",
+  "monika"
+ ],
+ "appearance": {
+  "theme": "cyber",
+  "bg": "bg/bg_20261022_130514.png",
+  "dim": 0.35,
+  "blur": 0.0,
+  "glass": true,
+  "glass_blur": 16.0
+ }
+}

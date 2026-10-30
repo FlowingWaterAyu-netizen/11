@@ -1,0 +1,50 @@
+{
+  "spark": {
+    "name": "火星诀",
+    "element": "火",
+    "cost": 1,
+    "base": 12,
+    "effect": "damage",
+    "desc": "指尖弹出一簇火星，点燃对方衣角。"
+  },
+  "ward": {
+    "name": "安魂咒",
+    "element": "灵",
+    "cost": 1,
+    "base": 18,
+    "effect": "heal",
+    "desc": "把紊乱的气息按回原位，伤口慢慢合上。"
+  },
+  "fog": {
+    "name": "起雾",
+    "element": "水",
+    "cost": 2,
+    "base": 0,
+    "effect": "utility",
+    "desc": "让这一小片地方起雾，遮住视线和脚印。"
+  },
+  "hearth": {
+    "name": "灶火",
+    "element": "火",
+    "cost": 1,
+    "base": 9,
+    "effect": "damage",
+    "desc": "从灶膛里引一缕火，烫人不见伤。"
+  },
+  "broth": {
+    "name": "热汤",
+    "element": "土",
+    "cost": 1,
+    "base": 14,
+    "effect": "heal",
+    "desc": "一碗滚烫的汤，喝下去寒气就退了。"
+  },
+  "hawkeye": {
+    "name": "鹰眼",
+    "element": "风",
+    "cost": 1,
+    "base": 0,
+    "effect": "utility",
+    "desc": "眯起眼，能看清半里外的脚印和呼吸。"
+  }
+}
